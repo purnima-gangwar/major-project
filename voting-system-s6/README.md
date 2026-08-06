@@ -1,6 +1,5 @@
 
 ## SET UP INSTRUCTIONS
-### Project demo video link
 Open ganache and select quick start ethereum.
 
 Open your browser and configure metamask. Create a wallet and store your```Secret Recovery Phrase``` in a safe place.
@@ -18,9 +17,7 @@ Open your browser and configure metamask. Create a wallet and store your```Secre
 3. Open the metamask menu which can be accessed by clicking the profile picture and select import account.
 4. Paste the private key copied from ganache and click import.
 
-#### Cloning the project
-
-
+#### Cloning the project 
 cd blockchain-voting-system
 
 npm i
