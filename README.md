@@ -13,6 +13,7 @@ A secure and user-friendly web-based voting platform that allows users to cast v
 - Candidate Profiles: View candidate details before voting
 
 ## Auther: Purnima Gangwar
+## Thank You!
 
 
 
