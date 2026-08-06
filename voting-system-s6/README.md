@@ -17,7 +17,7 @@ Open your browser and configure metamask. Create a wallet and store your```Secre
 3. Open the metamask menu which can be accessed by clicking the profile picture and select import account.
 4. Paste the private key copied from ganache and click import.
 
-#### Cloning the project 
+#### Cloning the project: https://github.com/purnima-gangwar/major-project
 cd blockchain-voting-system
 
 npm i
@@ -30,8 +30,5 @@ truffle migrate --reset (Every time you open Ganache)
  
 npm start
 
-The project will open in the browser and metamask will ask you to select an account. Select the account we had imported earlier.
-
-
-### danson added a new code 
+## Thank you!
 
