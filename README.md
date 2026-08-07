@@ -1,4 +1,4 @@
-# 🗳️ Online Voting System
+# 🗳️ Online Voting System :
 
 A secure and user-friendly web-based voting platform that allows users to cast votes online with real-time results. Built to ensure transparency, accessibility, and data integrity.
 
