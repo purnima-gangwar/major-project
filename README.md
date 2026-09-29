@@ -12,7 +12,7 @@ A secure and user-friendly web-based voting platform that allows users to cast v
 - Vote Encryption: All votes are encrypted to maintain anonymity
 - Candidate Profiles: View candidate details before voting
 
-## Author: Purnima Gangwar
+## Author: Purnima Gangwar.
 ## Thank You!
 
 
